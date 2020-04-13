@@ -1,0 +1,17 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nabin Bhandari",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "node-inspect": "^1.11.6",
+    "validator": "^13.0.0",
+    "yargs": "^15.3.1"
+  }
+}
